@@ -10,9 +10,8 @@ This repository contains code and resources for building a decision tree classif
 - **Model Evaluation:** Evaluated the model using metrics such as accuracy, precision, recall, and F1 score to assess its effectiveness in predicting customer purchases.
 
 ## Repository Structure
-- `notebooks/`: Jupyter notebooks containing model development.
+- ` DecisionTreeClassifier.ipynb`: Jupyter notebooks containing data preprocessing, model training, and evaluation,model development.
 - `Data/`: Dataset used for training and testing the model.
-- `scripts/`: Python scripts for data preprocessing, model training, and evaluation.
 - `README.md`: Overview of the project, setup instructions, and usage details.
 
 ## Setup Instructions

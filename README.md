@@ -14,17 +14,4 @@ This repository contains code and resources for building a decision tree classif
 - `Data/`: Dataset used for training and testing the model.
 - `README.md`: Overview of the project, setup instructions, and usage details.
 
-## Setup Instructions
-1. **Clone the repository:**
-git clone https://github.com/rnemu/PRODIGY_DS_03.git
-cd PRODIGY_DS_03
-
-2. **Run the notebooks :** Explore the provided Jupyter notebooks or Python scripts to understand data analysis, model development, and evaluation steps.
-
-## Usage
-- **Jupyter Notebooks:** Open and run the notebook the DecisionTreeClassifier.ipynb using Jupyter Notebook  for specific tasks such as data preprocessing, model training, and evaluation.
-
-## Contributions
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or create a pull request.
-
 
